@@ -6,6 +6,7 @@
         static void Main(string[] args)
         {
             DatumOmSjuDagar();
+            Console.Write("Hej");
         }
 
         static public void DatumOmSjuDagar()
